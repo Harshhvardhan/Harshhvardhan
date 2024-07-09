@@ -1,5 +1,8 @@
 # 💫 About Me:
-I have recently completed by BTECH from NIT Kurukshetra in Electronics & Communication Engineering.<br>I have a huge interest in exloring and learning new technologies.<br>I'm a developer.<br>I also have a huge interest in Product Analyst and Product Management Field.<br>I am a very curious person and easily grasp new technologies and new work environment.<br>
+🚀 **Software Engineer | Developer | Curious Explorer**
+
+As an Electronics & Communication Engineering graduate from NIT Kurukshetra, I thrive on unraveling the mysteries of technology. My code is my canvas, where I blend logic and creativity to build meaningful solutions. Passionate about product analysis and management, I'm always up for a challenge. Let's connect and create something awesome! 🌟
+
 
 
 ## 🌐 Socials:
